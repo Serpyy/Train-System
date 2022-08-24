@@ -1,0 +1,6 @@
+1001|JZ Express|LRT|100
+1002|Express Rail|MRT|55
+1003|Mad Dog Corperation|MRT|65
+1004|Chiew Yang Jie Corp|MRT|80
+1005|Matrix Speed|LRT|90
+1006|KH Rail|LRT|79
